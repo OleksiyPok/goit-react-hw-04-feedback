@@ -15,3 +15,5 @@ export const Title = styled.h2`
   color: darkblue;
   text-align: center;
 `;
+
+export const Children = styled.div``;
